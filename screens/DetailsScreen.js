@@ -12,6 +12,11 @@ export default function DetailsScreen({ navigation }) {
       />
       <View style={styles.spacer} />
       <Button
+        title="Go to Profile"
+        onPress={() => navigation.navigate('Profile')}
+      />
+      <View style={styles.spacer} />
+      <Button
         title="Go Back"
         onPress={() => navigation.goBack()}
       />

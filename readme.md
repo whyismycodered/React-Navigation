@@ -3,10 +3,10 @@
 A React Native application demonstrating stack navigation using React Navigation and Expo.
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your ID]
+- **Name:** Jan Kendrick P. Zamudio
+- **Student ID:** 202304858
 - **Course:** Mobile Application Development
-- **Date:** [Submission Date]
+- **Date:** 12/02/2025
 
 ## Features
 - Stack navigation between screens
@@ -66,3 +66,9 @@ npm run web
 - [React Navigation Documentation](https://reactnavigation.org/)
 - [Expo Documentation](https://docs.expo.dev/)
 - [React Native Documentation](https://reactnative.dev/)
+
+
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
